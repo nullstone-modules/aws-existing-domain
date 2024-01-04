@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-existing-domain
+friendly_name: Existing Domain
+description: Import an existing domain from AWS Route 53
+category: domain
+subcategory: ""
+provider_types:
+    - aws
+platform: route53
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
